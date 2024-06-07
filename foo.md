@@ -1,3 +1,4 @@
 # FOO BRANCH
 - first line
-- second line  
+- second line
+- third line  
